@@ -40,9 +40,3 @@ Pada awal program berjalan, sistem telah membuat data nasabah dan menginisialisa
    * Sistem meminta nominal setoran, dan pengguna memasukkan `20000`.
    * Sistem memanggil metode `deposit(20000)`. Saldo yang sebelumnya bernilai Rp 300.000 kini bertambah menjadi Rp 320.000.
    * **Output:** Layar menampilkan pesan `Setoran berhasil! Saldo Anda: Rp 320000.0`.
-
-## Cara Menjalankan Program
-1. Pastikan Java Development Kit (JDK) sudah terinstal.
-2. Buka terminal pada folder proyek (`Tuga-PBO-Array-dan-ArrayList`).
-3. Compile semua file java: `javac *.java`
-4. Jalankan program utama: `java Main`
