@@ -19,7 +19,7 @@ Program ini terdiri dari empat kelas utama yang saling berelasi:
 
 Berikut adalah hasil eksekusi program `Main.java` di terminal VS Code:
 
-![Hasil Output ATM](HasilOutput.png)
+![Hasil Output ATM](Output/HasilOutput.png)
 
 ### Alur Eksekusi:
 Pada awal program berjalan, sistem telah membuat data nasabah dan menginisialisasi saldo awal pada akun nasabah sebesar **Rp 500.000,0**. Selanjutnya, pengguna berinteraksi dengan menu ATM sebagai berikut:
